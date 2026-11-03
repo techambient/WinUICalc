@@ -44,11 +44,11 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 
 <b>Web Version [For any device with web browser (eg. Chrome, Edge, Safari, etc.)]</b>
 
-<p><img src="screenshots/web.png"><p>
+<p><img src="web.png"><p>
 
 <b>Android Tab / Phone / Foldables Version [Android 10 & Up]</b>
 
-<p><img src="screenshots/tab.png"><p>
+<p><img src="tab.png"><p>
 
 ---
 
