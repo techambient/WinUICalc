@@ -31,7 +31,7 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 - 🎨 Microsoft WinUI 3
 - 📱 Optimised for phones
 - 📟 Optimised for tablets & websites
-- 📖 History
+- 📖 Temporary History
 - 🌙 Dark Theme
 - ☀️ Light Theme
 - ⚡ Fast and responsive
