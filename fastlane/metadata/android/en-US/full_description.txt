@@ -1,0 +1,1 @@
+World lightest calculator app for Android based on the Windows 11 Calculator layout and design.
