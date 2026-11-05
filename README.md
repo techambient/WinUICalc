@@ -119,7 +119,7 @@ WinUI Calc is built using a hybrid architecture. The native WinUI 3 desktop wrap
 
 App --> React Native + Aggressive Compress
 
-To view the React Native source code that powers WinUI Calc, 
+To view the React Native source code that powers WinUI Calc, kindly visit [https://github.com/techambient/WinUICalcReact](https://github.com/techambient/WinUICalcReact)
 
 ---
 
