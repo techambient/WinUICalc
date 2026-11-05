@@ -10,7 +10,7 @@
 -assumenosideeffects class io.opencensus.** { *; }
 -dontwarn io.opencensus.**
 
--keep public class com.example.MainActivity {
+-keep public class com.winuicalc.MainActivity {
     public *;
 }
 

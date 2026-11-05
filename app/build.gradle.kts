@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.winuicalc"
   compileSdk = 36
 
   defaultConfig {
@@ -102,4 +102,10 @@ dependencies {
   androidTestImplementation(libs.androidx.espresso.core)
   androidTestImplementation(libs.androidx.junit)
   androidTestImplementation(libs.androidx.runner)
+}
+
+// Strip OpenCensus telemetry and tracker modules completely across all configurations
+configurations.all {
+  exclude(group = "io.opencensus", module = "opencensus-api")
+  exclude(group = "io.opencensus", module = "opencensus-proto")
 }
