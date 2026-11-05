@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="180" alt="WinUI Calc">
+<img src="fastlane/metadata/android/en-US/images/icon.png" width="180" alt="WinUI Calc">
 
 # WinUI Calc
 
