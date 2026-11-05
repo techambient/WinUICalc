@@ -113,6 +113,16 @@ Unlike many calculator applications, WinUI Calc focuses on:
 
 ---
 
+# 🪶 How WinUI Calc achieves as world lightest calculator (~20KB)? 
+
+WinUI Calc is built using a hybrid architecture. The native WinUI 3 desktop wrapper embeds a lightweight, highly compressed React Native web engine that powers the main calculator app. 
+
+App --> React Native + Aggressive Compress
+
+To view the React Native source code that powers WinUI Calc, 
+
+---
+
 # 🤝 Contributing
 
 Contributions are always welcome!
