@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://techambient.github.io/WinUICalc/sitemap.xml
