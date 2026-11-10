@@ -6,7 +6,7 @@
 
 ### Experience Windows 11 Calculator on your Android / macOS device today! 
 
-A polished Android calculator that faithfully brings the modern Windows 11 Calculator (based on WinUI3) experience to your Android, macOS, ChromeOS & Linux devices. 
+A 20KB only Android calculator that faithfully brings the modern Windows 11 Calculator (based on WinUI3) experience to your Android, macOS, ChromeOS & Linux devices. 
 
 [![License](https://img.shields.io/github/license/techambient/WinUICalc?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Android-10%2B-34A853?style=for-the-badge)]()
