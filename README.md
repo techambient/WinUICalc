@@ -49,6 +49,9 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 <b>Android Tab / Phone / Foldables Version [Android 10 & Up]</b>
 
 <p><img src="tab.png"><p>
+<p><img src="tab_landscape.jpeg"><p>
+<p><img src="graph_mode.jpeg"><p>
+<p><img src="sidebar_menu.jpeg"><p>
 
 ---
 
