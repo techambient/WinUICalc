@@ -29,9 +29,11 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 # ✨ Features
 
 - 🎨 Microsoft WinUI 3
+- 🧮 5 Calculation Modes + 13 Converters 
 - 📱 Optimised for phones
 - 📟 Optimised for tablets & websites
 - 📖 Temporary History
+- 🛜 Offline-ready
 - 🌙 Dark Theme
 - ☀️ Light Theme
 - ⚡ Fast and responsive
@@ -46,6 +48,8 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 
 <p><img src="web.png"><p>
 
+<br>
+
 <b>Android Tab / Phone / Foldables Version [Android 10 & Up]</b>
 
 <p><img src="tab.png"><p>
@@ -58,8 +62,8 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 # 📋 Requirements
 
 - Android 10+ 
-- ARM64-v8a / ARM64-v7a / x86_64
-- Internet connection
+- ARM64-v8a (Android app) OR x86_64 / ARM (Web Version)
+- **Internet connection** is **required** for **first time use (Android app)** or **web version**
 - Minimum 2 GB RAM recommended
 
 ---
