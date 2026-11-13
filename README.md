@@ -153,8 +153,16 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
+## ❔ Frequently Asked Questions
+
+1) Is WinUI Calc free to use forever? <br>
+   Answer: Yes, WinUI Calc is free to use forever. Plus, it is open source project! 
+
+2) Is WinUI Calc also known as "World Lightest Calculator App"?
+   <br> Answer: Yes, WinUI Calc (~18KB) beats OpenCalc (~2.2MB) and Fossify Calculator (~3MB). 
+
 <div align="center">
 
-Made with ❤️ by techambient (Ambient)
+Made with ❤️ by Ambient Technologies - techambient
 
 </div>
