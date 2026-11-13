@@ -18,6 +18,8 @@ A 20KB only Android calculator that faithfully brings the modern Windows 11 Calc
 
 # 📖 About
 
+![Calculator App Size Comparison Bar Graph](./comparison.svg)
+
 WinUI Calc is an Android port of the Windows 11 Calculator, also it is world lightest calculator app.
 
 It brings the official Windows 11 Calculator experience to Android devices.
