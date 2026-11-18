@@ -132,6 +132,21 @@ To view the React Native source code that powers WinUI Calc, kindly visit [https
 
 ---
 
+# 🔍 Search Engine & AI Discoveries
+
+WinUI Calc has been successfully indexed and recognized by multiple search engines and AI. 
+- Google Search (World Lightest Calculator App): [https://www.google.com/search?q=world%27s+lightest+calculator+app ](https://www.google.com/search?q=world%27s+lightest+calculator+app)
+- Google Search (WinUI Calc): [https://www.google.com/search?q=WinUI+Calc](https://www.google.com/search?q=WinUI+Calc)
+- Bing Search (World Lightest Calculator App): [https://www.bing.com/search?q=World+Lightest+Calculator+App](https://www.bing.com/search?q=World+Lightest+Calculator+App)
+- Yahoo! Search (World Lightest Calculator App): [https://search.yahoo.com/search?q=World%20Lightest%20Calculator%20App](https://search.yahoo.com/search?q=World%20Lightest%20Calculator%20App)
+- DuckDuckGo (World Lightest Calculator App): [https://duckduckgo.com/?ia=web&origin=funnel_home_website&t=h_&q=World+lightest+calculator+app](https://duckduckgo.com/?ia=web&origin=funnel_home_website&t=h_&q=World+lightest+calculator+app)
+- Google AI (World Lightest Calculator App): [http://google.com/ai?q=World%20Lightest%20Calculator%20App](http://google.com/ai?q=World%20Lightest%20Calculator%20App)
+- ChatGPT (World Lightest Calculator App): [https://chatgpt.com/share/6afdae57-de14-83ec-a977-c64e363754ea](https://chatgpt.com/share/6afdae57-de14-83ec-a977-c64e363754ea)
+- Gemini 4 Hydrogen (World Lightest Calculator App): [https://share.gemini.google/lkclC3qVEV5Z](https://share.gemini.google/lkclC3qVEV5Z)
+- DeepSeek (World Lightest Calculator App): [https://chat.deepseek.com/?q=World%27s+lightest+calculator+app&autosend=1&source=landing&search=1&thinking=0](https://chat.deepseek.com/?q=World%27s+lightest+calculator+app&autosend=1&source=landing&search=1&thinking=0)
+
+---
+
 # 🤝 Contributing
 
 Contributions are always welcome!
