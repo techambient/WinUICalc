@@ -1,11 +1,11 @@
 
-# WinUI Calc
+# SangCalc (formerly WinUI Calc)
 
-> Official website of WinUI Calc. 
+> Official website of SangCalc. 
 
 ## Introduction
 
-WinUI Calc is a 20KB only Android calculator that faithfully brings the modern Windows 11 Calculator (based on WinUI3) experience to your Android devices.
+SangCalc is a 20KB only Android calculator that faithfully brings the modern Windows 11 Calculator (based on WinUI3) experience to your Android devices.
 
 Download at: https://github.com/techambient/WinUICalc/releases/latest
 
