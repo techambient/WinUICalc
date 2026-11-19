@@ -2,7 +2,7 @@
 
 <img src="fastlane/metadata/android/en-US/images/icon.png" width="180" alt="WinUI Calc">
 
-# WinUI Calc
+# SangCalc (formerly WinUI Calc)
 
 ### Experience Windows 11 Calculator on your Android / macOS device today! 
 
@@ -20,11 +20,11 @@ A 20KB only Android calculator that faithfully brings the modern Windows 11 Calc
 
 ![Calculator App Size Comparison Bar Graph](./comparison.svg)
 
-WinUI Calc is an Android port of the Windows 11 Calculator, also it is world lightest calculator app.
+SangCalc is an Android port of the Windows 11 Calculator, also it is world lightest calculator app.
 
 It brings the official Windows 11 Calculator experience to Android devices.
 
-Whether you're calculating equations, writing documents, drawing graph or converting units, WinUI Calc delivers an elegant and best experience designed specifically for Android devices and web. 
+Whether you're calculating equations, writing documents, drawing graph or converting units, SangCalc delivers an elegant and best experience designed specifically for Android devices and web. 
 
 ---
 
@@ -58,6 +58,23 @@ Whether you're calculating equations, writing documents, drawing graph or conver
 <p><img src="tab_landscape.jpeg"><p>
 <p><img src="graph_mode.jpeg"><p>
 <p><img src="sidebar_menu.jpeg"><p>
+
+---
+
+## Disclaimer & Open-Source Attribution
+
+### Trademark & Non-Affiliation Notice
+**SangCalc** is an independent, free, and open-source project developed by **Ambient Technologies**. This project is **not** affiliated with, endorsed by, sponsored by, or officially connected to **Microsoft Corporation** in any way.
+
+"Microsoft", "Windows", "WinUI", and "Fluent Design" are registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Any mention of Windows Calculator is strictly for descriptive and attribution purposes to acknowledge design inspiration and functional parity.
+
+### Open-Source Attribution
+The user interface layout, calculator modes, and user experience of **SangCalc** are inspired by the open-source [**Windows Calculator**](https://github.com/microsoft/calculator) project by Microsoft Corporation, released under the [MIT License](https://github.com/microsoft/calculator/blob/main/LICENSE).
+
+* **Upstream Reference:** [Windows Calculator (`microsoft/calculator`)](https://github.com/microsoft/calculator) — Copyright (c) Microsoft Corporation, licensed under the MIT License.
+
+### Disclaimer of Warranty
+This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from the use of this software.
 
 ---
 
@@ -99,7 +116,7 @@ Open the project using Android Studio and press **Run**.
 
 # 🎨 Design
 
-WinUI Calc follows Microsoft's latest WinUI 3 Design guidelines.
+SangCalc follows Microsoft's latest WinUI 3 Design guidelines.
 
 - WinUI 3
 - Pixel by pixel UI clone
@@ -109,9 +126,9 @@ WinUI Calc follows Microsoft's latest WinUI 3 Design guidelines.
 
 ---
 
-# ❤️ Why WinUI Calc?
+# ❤️ Why SangCalc?
 
-Unlike many calculator applications, WinUI Calc focuses on:
+Unlike many calculator applications, SangCalc focuses on:
 
 - Clean UI (clone from Windows 11 Calculator)
 - Performance
@@ -122,9 +139,9 @@ Unlike many calculator applications, WinUI Calc focuses on:
 
 ---
 
-# 🪶 How WinUI Calc achieves as world lightest calculator (~20KB)? 
+# 🪶 How SangCalc achieves as world lightest calculator (~20KB)? 
 
-WinUI Calc is built using a hybrid architecture. The native WinUI 3 desktop wrapper embeds a lightweight, highly compressed React Native web engine that powers the main calculator app. 
+SangCalc is built using a hybrid architecture. The native WinUI 3 desktop wrapper embeds a lightweight, highly compressed React Native web engine that powers the main calculator app. 
 
 App --> React Native + Aggressive Compress
 
@@ -134,9 +151,8 @@ To view the React Native source code that powers WinUI Calc, kindly visit [https
 
 # 🔍 Search Engine & AI Discoveries
 
-WinUI Calc has been successfully indexed and recognized by multiple search engines and AI. 
+SangCalc has been successfully indexed and recognized by multiple search engines and AI. 
 - Google Search (World Lightest Calculator App): [https://www.google.com/search?q=world%27s+lightest+calculator+app ](https://www.google.com/search?q=world%27s+lightest+calculator+app)
-- Google Search (WinUI Calc): [https://www.google.com/search?q=WinUI+Calc](https://www.google.com/search?q=WinUI+Calc)
 - Bing Search (World Lightest Calculator App): [https://www.bing.com/search?q=World+Lightest+Calculator+App](https://www.bing.com/search?q=World+Lightest+Calculator+App)
 - Yahoo! Search (World Lightest Calculator App): [https://search.yahoo.com/search?q=World%20Lightest%20Calculator%20App](https://search.yahoo.com/search?q=World%20Lightest%20Calculator%20App)
 - DuckDuckGo (World Lightest Calculator App): [https://duckduckgo.com/?ia=web&origin=funnel_home_website&t=h_&q=World+lightest+calculator+app](https://duckduckgo.com/?ia=web&origin=funnel_home_website&t=h_&q=World+lightest+calculator+app)
@@ -162,7 +178,7 @@ You can help by:
 
 # ⭐ Support
 
-If you enjoy WinUI Calc, please consider giving this repository a ⭐ to help keep it alive!! 
+If you enjoy SangCalc, please consider giving this repository a ⭐ to help keep it alive!! 
 
 ---
 
@@ -176,11 +192,11 @@ See [LICENSE](LICENSE) for more information.
 
 ## ❔ Frequently Asked Questions
 
-1) Is WinUI Calc free to use forever? <br>
-   Answer: Yes, WinUI Calc is free to use forever. Plus, it is open source project! 
+1) Is SangCalc free to use forever? <br>
+   Answer: Yes, SangCalc is free to use forever. Plus, it is open source project! 
 
-2) Is WinUI Calc also known as "World Lightest Calculator App"?
-   <br> Answer: Yes, WinUI Calc (~18KB) beats OpenCalc (~2.2MB) and Fossify Calculator (~3MB). 
+2) Is SangCalc also known as "World Lightest Calculator App"?
+   <br> Answer: Yes, SangCalc (~18KB) beats OpenCalc (~2.2MB) and Fossify Calculator (~3MB). 
 
 <div align="center">
 
